@@ -1,0 +1,20 @@
+{
+	"name": "baselineui",
+	"version": "0.0.1",
+	"main": "index.js",
+	"description": "CLI tool for BaselineUI components",
+	"keywords": [],
+	"author": "",
+	"license": "MIT",
+	"bin": {
+		"baselineui": "./bin/baselineui.js"
+	},
+	"dependencies": {
+		"commander": "^12.1.0",
+		"fs-extra": "^11.2.0"
+	},
+	"devDependencies": {
+		"@types/react": "^18.3.3",
+		"react": "^18.3.1"
+	}
+}
