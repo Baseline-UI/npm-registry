@@ -7,7 +7,7 @@
 	"author": "developer-assets",
 	"license": "MIT",
 	"bin": {
-		"baselineui": "./bin/baselineui.js"
+		"baselineui": "bin/baselineui.js"
 	},
 	"dependencies": {
 		"commander": "^12.1.0",
