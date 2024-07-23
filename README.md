@@ -1,4 +1,4 @@
-# npm registry
+# BaselineUI CLI tool
 
 Easily install BaselineUI via NPM with 3 easy steps. 
 
@@ -8,3 +8,7 @@ Easily install BaselineUI via NPM with 3 easy steps.
 
 Example of add command: `baselineui add flip-words`
 This will add FlipWords to your project.
+
+Brought to you by Paxz. Special thanks to PurifiedGamer for contributing and helping.
+
+Join our discord for updates, new components and more https://discord.gg/sYMQQAWP
