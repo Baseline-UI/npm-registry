@@ -4,7 +4,7 @@
 	"main": "index.js",
 	"description": "CLI tool for BaselineUI components",
 	"keywords": [],
-	"author": "",
+	"author": "developer-assets",
 	"license": "MIT",
 	"bin": {
 		"baselineui": "./bin/baselineui.js"
