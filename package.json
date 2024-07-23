@@ -1,6 +1,6 @@
 {
 	"name": "baseline-ui-installer",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"main": "index.js",
 	"description": "CLI tool for BaselineUI components",
 	"keywords": [],
@@ -11,6 +11,7 @@
 	},
 	"dependencies": {
 		"commander": "^12.1.0",
+		"framer-motion": "^11.3.12",
 		"fs-extra": "^11.2.0"
 	},
 	"devDependencies": {
