@@ -9,6 +9,6 @@ Easily install BaselineUI via NPM with 3 easy steps.
 Example of add command: `baselineui add flip-words`
 This will add FlipWords to your project.
 
-Brought to you by <a href='https://github.com/PaxzDev'>dPaxzDev</a>. Special thanks to <a href='https://github.com/developer-assets'>developer-assets</a> for contributing and helping.
+Brought to you by <a href='https://github.com/PaxzDev'>PaxzDev</a>. Special thanks to <a href='https://github.com/developer-assets'>developer-assets</a> for contributing and helping.
 
 Join our discord for updates, new components and more https://discord.gg/sYMQQAWP
