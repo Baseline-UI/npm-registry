@@ -1,3 +1,5 @@
+"use client"; // Dont delete or it wont work
+
 import React from 'react';
 import { motion } from 'framer-motion';
 

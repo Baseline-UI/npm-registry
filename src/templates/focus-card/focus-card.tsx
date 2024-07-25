@@ -1,3 +1,5 @@
+"use client"; // Dont delete or it wont work
+
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 
@@ -5,7 +7,7 @@ const cardData = [
   { 
     id: 0, 
     title: 'Nature', 
-    paragraph: 'A beautiful, quiet place. Where wildlife lives and grass grows. The root of our existance.', 
+    paragraph: 'A beautiful, quiet place. Where wildlife roams and ecolife grows. The root of our existance.', 
     bgColor: 'bg-neutral-950', 
     bgImage: 'url("https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?b=1&s=612x612&w=0&k=20&c=81f5HaMtoPNUrdfa4hnS8NcwEgD9tH2nnTUBu25Msug=")' 
   },
@@ -19,7 +21,7 @@ const cardData = [
   { 
     id: 2, 
     title: 'Gothenburg', 
-    paragraph: 'The second biggest city in sweden, Gothenburg. Located on the west coast, or so called; "the best coast".', 
+    paragraph: 'The second biggest city in Sweden, Gothenburg. Located on the west coast, or the so called; "best coast".', 
     bgColor: 'bg-neutral-950', 
     bgImage: 'url("https://gte-gcms.imgix.net/resize=width%3A2048,fit%3Amax/3bnV2WJqR9mPW2rYHKLy?ar=1.91%3A1&w=1200&fit=crop")' 
   },
@@ -65,7 +67,7 @@ const FocusCard: React.FC = () => {
                     animate={{ opacity: 1 }}
                     exit={{ opacity: 0 }}
                     transition={{ duration: 0.3 }}
-                    className="text-lg text-center self-center"
+                    className="text-lg text-center self-center text-white"
                   >
                     {card.title}
                   </motion.h1>
