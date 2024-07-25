@@ -1,6 +1,6 @@
 {
 	"name": "baseline-ui-installer",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"main": "index.js",
 	"description": "CLI tool for BaselineUI components",
 	"keywords": [],
