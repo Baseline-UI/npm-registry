@@ -1,4 +1,4 @@
-# BaselineUI CLI tool
+# ✨ BaselineUI CLI tool
 
 Easily install BaselineUI via NPM with 3 easy steps. 
 
@@ -8,6 +8,13 @@ Easily install BaselineUI via NPM with 3 easy steps.
 
 Example of add command: `baselineui add flip-words`
 This will add FlipWords to your project.
+
+🚀 Commands coming soon:
+1. `baselineui help` - shows a list of all commands with explanations.
+2. `baselineui components` - shows a list of all components availabe.
+
+
+
 
 Brought to you by <a href='https://github.com/PaxzDev'>PaxzDev</a>. Special thanks to <a href='https://github.com/developer-assets'>developer-assets</a> for contributing and helping.
 
