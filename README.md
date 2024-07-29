@@ -15,7 +15,7 @@ This will add FlipWords to your project.
 
 
 
-
+### 🌟 Dont forget to star our repo! 
 Brought to you by <a href='https://github.com/PaxzDev'>PaxzDev</a>. Special thanks to <a href='https://github.com/developer-assets'>developer-assets</a> for contributing and helping.
 
 
