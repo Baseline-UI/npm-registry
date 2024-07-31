@@ -13,7 +13,7 @@ This will add FlipWords to your project.
 1. `baselineui help` - shows a list of all commands with explanations.
 2. `baselineui components` - shows a list of all components availabe.
 
-
+Licensed under MIT - Free to use.
 
 ### 🌟 Dont forget to star our repo! 
 Brought to you by <a href='https://github.com/PaxzDev'>PaxzDev</a>. Special thanks to <a href='https://github.com/developer-assets'>developer-assets</a> for contributing and helping.
